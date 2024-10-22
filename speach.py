@@ -55,7 +55,7 @@ while True:
         elif "joke" in text.lower():
             jokes()
         elif "wiki" in text.lower():
-            query = text.split("wiki ")[1]
+            query = text.split("wiki ")[1]  # Ensure there's a query after "wiki"
             wiki_search(query)
         elif "translate" in text.lower():
             parts = text.split("translate ")[1].split(" to ")

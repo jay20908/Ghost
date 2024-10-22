@@ -1,0 +1,20 @@
+{
+    "paragraphs": [
+        "This domain is for use in illustrative examples in documents. You may use this\n    domain in literature without prior coordination or asking for permission.",
+        "More information..."
+    ],
+    "images": [],
+    "links": [
+        {
+            "text": "More information...",
+            "href": "https://www.iana.org/domains/example"
+        }
+    ],
+    "headings": {
+        "h1": [
+            "Example Domain"
+        ],
+        "h2": [],
+        "h3": []
+    }
+}
